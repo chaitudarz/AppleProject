@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/RWU-DigitAL/AppleProject/mlruns/483959601393324027/a381cb82d59d4003ab3d80135da174a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '483959601393324027'
+lifecycle_stage: active
+run_id: a381cb82d59d4003ab3d80135da174a0
+run_name: colorful-robin-732
+run_uuid: a381cb82d59d4003ab3d80135da174a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729090579762
+status: 1
+tags: []
+user_id: root
