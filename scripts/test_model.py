@@ -7,7 +7,7 @@ model = YOLO('/home/chaitu/Downloads/best.pt')
 #model = YOLO('/home/chaitu/Downloads/yolov8n.pt')
 
 #path to image
-image_path = '/home/chaitu/Desktop/Sample_Apple_Dataset/V&R_Insta360Cam/cam_1_000619_000331836957_reprojected_1.jpg'
+image_path = '/home/chaitu/Desktop/Sample_Apple_Dataset/V&R_Insta360Cam/cam_1_000619_000331836957_reprojected_0.jpg'
 
 results = model.predict(source=image_path, save=True, save_txt=True)
 
