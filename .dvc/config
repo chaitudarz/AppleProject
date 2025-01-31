@@ -1,2 +1,4 @@
-['remote "origin"']
-    url = https://dagshub.com/grandhichaitu6/AppleProject.dvc
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = /home/chaitu/Documents/dvc-storage
